@@ -9,7 +9,8 @@ NAISHMA provides an interactive terminal experience where:
 - **Customers** can browse, search, filter, and add products to their cart.
 
 Product data is initially fetched from a **public API** and enhanced by user interactions.
-
+### Features
+ - Display Product List
 ## Tech Stack 
 
 **TypeScript** 

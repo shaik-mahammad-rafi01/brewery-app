@@ -1,14 +1,8 @@
 # Brewery
-**NAISHMA** is a CLI (Command-Line Interface) application that simulates a basic e-commerce platform with Admin and Customer roles. It allows users to manage and shop products in a simple terminal-based environment.
+### Description
+**Brewery** is a CLI (Command-Line Interface) application for the Brewery Cafe.This system helps users select products and generates a detailed bill with applicable discounts.
 
-## Project Overview
-> One stop destination for your shopping needs
 
-NAISHMA provides an interactive terminal experience where:
-- **Admins** can manage products (add/remove).
-- **Customers** can browse, search, filter, and add products to their cart.
-
-Product data is initially fetched from a **public API** and enhanced by user interactions.
 ### Features
  - Display Product List
  - Billing Cart Items

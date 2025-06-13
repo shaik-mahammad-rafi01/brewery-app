@@ -12,6 +12,9 @@ Product data is initially fetched from a **public API** and enhanced by user int
 ### Features
  - Display Product List
  - Billing Cart Items
+ - Choose Cup Size for Beverages (Small, Medium, Large)
+ - Apply 10% Discount if Bill > ₹1000
+ - Show Final Bill with Item-wise Breakdown
 ## Tech Stack 
 
 **TypeScript** 

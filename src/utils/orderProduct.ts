@@ -1,7 +1,7 @@
 import { products } from "../data/products.js";
 import { SelectedItem } from "../interfaces/orderItem.js";
 import { cupSize } from "../types/types.js";
-import { billing } from "./billing.js";
+import { billing } from "./billing";
 import { ask } from "./readline.js";
 export let selectedItems: SelectedItem[] = [];
 export async function orderProduct(): Promise<SelectedItem[]> {
